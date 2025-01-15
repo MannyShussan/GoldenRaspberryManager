@@ -126,20 +126,20 @@ Delete a Movie
 ## Contribution
 ### Contributions are welcome! To contribute:
 
-** 1. Fork the repository.**
-** 2. Create a new branch with your feature:**
+1. **Fork the repository.**
+2. **Create a new branch with your feature:**
    ```bash
    git checkout -b feature/new-feature
    ```
-** 3. Commit you changes:**
+3. **Commit you changes:**
    ```bash
    git commit -m "Add new feature"
    ```
-** 4. Push to the remote repository:**
+4. **Push to the remote repository:**
    ```bash
    git push origin feature/new-feature
    ```
-** 5. Open a pull request.**
+5. **Open a pull request.**
 
 ## License
 Free to use
