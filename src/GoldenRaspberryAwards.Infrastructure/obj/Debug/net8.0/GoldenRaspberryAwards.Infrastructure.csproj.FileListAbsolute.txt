@@ -1,0 +1,14 @@
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.deps.json
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.runtimeconfig.json
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.pdb
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.AssemblyInfo.cs
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\refint\GoldenRaspberryAwards.Infrastructure.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.pdb
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.genruntimeconfig.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Infrastructure\obj\Debug\net8.0\ref\GoldenRaspberryAwards.Infrastructure.dll

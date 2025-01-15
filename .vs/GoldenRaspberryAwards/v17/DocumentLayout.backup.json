@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E82C546-5B0A-4B89-BBE8-972559BEE200}|src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj|c:\\users\\nasci\\source\\repos\\goldenraspberryawards_8\\src\\goldenraspberryawards.sharedservices\\goldenraspberryawards.sharedservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E82C546-5B0A-4B89-BBE8-972559BEE200}|src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj|solutionrelative:src\\goldenraspberryawards.sharedservices\\goldenraspberryawards.sharedservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|c:\\users\\nasci\\source\\repos\\goldenraspberryawards_8\\src\\goldenraspberryawards.infrastructure\\goldenraspberryawards.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|solutionrelative:src\\goldenraspberryawards.infrastructure\\goldenraspberryawards.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|c:\\users\\nasci\\source\\repos\\goldenraspberryawards_8\\src\\goldenraspberryawards.infrastructure\\mappings\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|solutionrelative:src\\goldenraspberryawards.infrastructure\\mappings\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|c:\\users\\nasci\\source\\repos\\goldenraspberryawards_8\\src\\goldenraspberryawards.infrastructure\\mappings\\entitybasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F7DB97-BAA5-43A1-A9B2-96CADA2E8ECA}|src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj|solutionrelative:src\\goldenraspberryawards.infrastructure\\mappings\\entitybasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F6B517-D451-48DA-860D-B8947B630FF2}|src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj|c:\\users\\nasci\\source\\repos\\goldenraspberryawards_8\\src\\goldenraspberryawards.api\\goldenraspberryawards.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2F6B517-D451-48DA-860D-B8947B630FF2}|src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj|solutionrelative:src\\goldenraspberryawards.api\\goldenraspberryawards.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoldenRaspberryAwards.SharedServices",
+              "DocumentMoniker": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj",
+              "RelativeDocumentMoniker": "src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj",
+              "ToolTip": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj",
+              "RelativeToolTip": "src\\GoldenRaspberryAwards.SharedServices\\GoldenRaspberryAwards.SharedServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T03:09:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieMapping.cs",
+              "DocumentMoniker": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\MovieMapping.cs",
+              "RelativeDocumentMoniker": "src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\MovieMapping.cs",
+              "ToolTip": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\MovieMapping.cs",
+              "RelativeToolTip": "src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\MovieMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:08:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoldenRaspberryAwards.Api",
+              "DocumentMoniker": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+              "RelativeDocumentMoniker": "src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+              "ToolTip": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+              "RelativeToolTip": "src\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T03:04:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoldenRaspberryAwards.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj",
+              "RelativeToolTip": "src\\GoldenRaspberryAwards.Infrastructure\\GoldenRaspberryAwards.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T03:03:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityBaseMapping.cs",
+              "DocumentMoniker": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\EntityBaseMapping.cs",
+              "RelativeDocumentMoniker": "src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\EntityBaseMapping.cs",
+              "ToolTip": "C:\\Users\\nasci\\source\\repos\\GoldenRaspberryAwards_8\\src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\EntityBaseMapping.cs",
+              "RelativeToolTip": "src\\GoldenRaspberryAwards.Infrastructure\\Mappings\\EntityBaseMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:53:16.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

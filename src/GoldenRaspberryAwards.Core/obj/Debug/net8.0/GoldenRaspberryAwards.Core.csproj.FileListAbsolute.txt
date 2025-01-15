@@ -1,0 +1,15 @@
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\bin\Debug\net8.0\GoldenRaspberryAwards.Core.deps.json
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\bin\Debug\net8.0\GoldenRaspberryAwards.Core.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\bin\Debug\net8.0\GoldenRaspberryAwards.Core.pdb
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\bin\Debug\net8.0\GoldenRaspberryAwards.Infrastructure.pdb
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.csproj.AssemblyReference.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.AssemblyInfoInputs.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.AssemblyInfo.cs
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.csproj.CoreCompileInputs.cache
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRa.191C35D1.Up2Date
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\refint\GoldenRaspberryAwards.Core.dll
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\GoldenRaspberryAwards.Core.pdb
+C:\Users\nasci\source\repos\GoldenRaspberryAwards_8\src\GoldenRaspberryAwards.Core\obj\Debug\net8.0\ref\GoldenRaspberryAwards.Core.dll
